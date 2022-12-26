@@ -1,0 +1,11 @@
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\bin\Debug\SExplorer.exe.config
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\bin\Debug\SExplorer.exe
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\bin\Debug\SExplorer.pdb
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.csproj.AssemblyReference.cache
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.Form1.resources
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.Properties.Resources.resources
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.csproj.GenerateResource.cache
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.csproj.CoreCompileInputs.cache
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.exe
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.pdb
+C:\Users\глеб\Desktop\KNU FKNK\Explorer OOP\SExplorer\SExplorer\SExplorer\obj\Debug\SExplorer.csproj.SuggestedBindingRedirects.cache
